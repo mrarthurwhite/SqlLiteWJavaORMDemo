@@ -14,5 +14,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="C:/Users/SOLON/dev/flatiron/labs/java_projs_linux/SqlLiteWJavaORMDemo/lib/required/jboss-logging-3.3.0.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/SOLON/dev/flatiron/labs/java_projs_linux/SqlLiteWJavaORMDemo/lib/required/hibernate-core-4.3.11.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SOLON/dev/flatiron/labs/java_projs_linux/SqlLiteWJavaORMDemo/lib/driver/sqlite-dialect-hibernate-core-4.3.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
